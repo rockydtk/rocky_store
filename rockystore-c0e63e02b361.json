@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rockystore",
+  "private_key_id": "c0e63e02b361957c9ba6e94deb0d8fbfad7cc884",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDqM0hSVtRYDeQK\noAc8HxhBEq4tnQpUMiCpayy13Gg9UA1lMkpNrHTfn6h0lWYjVZafAClwkyp0ONOz\n9dke/mHGJIZ3chiGHNlRPDNRQLe55zO3dFwer59pbCJ3ReOrCP45FmiHUUSEjeCc\nYZzE3kHEM+HNGOx00o18pUHc0po96FU6Gnq6ejBmHojEuVDgyRq1wZoQhO0mRTuc\nSYx8NohRSx12Xk5kbtW3kwaGTVy6G7FaoluQqajidl+pznkKtIHExLt82T+QkzXG\nFjMMv9PtwdIzEmyJaJcQp/WLt3/CUfok+A6CB7GKT+rtfW85INa+KSzpdTQ1ylRw\nFsJEhY51AgMBAAECggEACuIeMsFZNcxTdBDytR8GzANXt8Pr9nSr4uOZnMvkxjCh\nprm7DTf96GRtehl1OSAhkzr5MgOMvgDkCaFbmR6eIYyR+RwCury9dpJzGgwFXay6\nUQSlwUFNCaOeSGeliE2vLqz1Z5BlvDkxnmLE27suWDVHAXZuipE8RPYTBPV+eHDs\nPv49+Hwk0jh17tc12Se6z8k6msMA8MpqYyKIOaXODcTvfbo9w8h9/RTw2vV18SYp\n43q56vbI0wDbdM0n9R31PXF9dv9HKy9C9neJjgiEge/o8Gli6S7q99dbcRLu9avq\nV6ywRCVSVtn+MlYqmdt3fqGITBQIQQbkS68DVW/nYQKBgQD2QRacoC4caAEm44jI\nrLo1aJ5+XxlxTP15J5b1rxdXyqYilKCrIpnX4MlvaxuiBP1PzVKgQ/pJTYHF64wt\nOaWP7ihoCXwO26zlQ06dnPxdPE6eN3zWDFgobrzD1DVxozepQxfGwA0oG3ix6Mjr\n81L9NQ/Qaganj8z7ie2Jma2XpQKBgQDzeBII08329jtLU5+D7XwMYx1xhHtFD1eM\nMR8UCIGwaiZIM62gD5XiAmtzOMGai8DHYHTk5HpEJ5SGcD5IGFjYFSw95AYiQHFK\n8ZxVdlBiWtWwHCvw+LqC/rEgyOsq3FQwYtx163RBNlNUut8NNelOqatgezODL9VO\n7op5u5fikQKBgCIBVvgF/pgZnJ8cKJVdlNEvQ0O8Ki1FLnN+jhAbP6P17f80ewNm\n4cu31Nk39zbmbXyJo/FRscxRkawdHNxZ64z2nEnRlXoPx85Y/xAwz4CohUq/6tM8\nHShoMlTwhvjMSzFqfGwLtUVmlcIrnSNIFJu2qhpjqcuVxf6uS0kHGbupAoGAS+eT\nN81Q2T3LHqDjim3vzqzX8RwskktGMB7gYY6FYEq3xKrX5p71S5EVjsaTFWucnowj\n5XiV5cmxNHip8jAlArkXIfSFNQiCSasp4jsQtJk9JbqiuG3TOCPPdTkumB444Rzx\nPpI5nFsjf7cC80trgWrEU0AVv0CacBFOesVRhQECgYBRGz2bYCbiE4zdURruQbWH\nJfDNp/eesq0psmdT26hpk/HfbPlLQUHev3jQ/g1bvfYG0ai3DtsOvdzgiuj+NBcd\nVofC+MQ60rVlMj8qlS7RRGVqEiF+tjKyECTLkuID9f3oE0rqMhX34VPRCiwlpEb8\nPuw8jtfcptIsY/M6JuyX/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "svc-acc-rocky-store@rockystore.iam.gserviceaccount.com",
+  "client_id": "109439957277558307008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svc-acc-rocky-store%40rockystore.iam.gserviceaccount.com"
+}

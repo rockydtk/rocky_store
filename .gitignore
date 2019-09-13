@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+.gcloudignore
+rocky_store
+.rocky_store
+.pyc
